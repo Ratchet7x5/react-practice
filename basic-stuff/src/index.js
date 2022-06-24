@@ -6,4 +6,4 @@ function Greeting()
   return <p>This is my first component, I think...</p>;
 }
 
-ReactDOM.render(<Greeting/>, document.getElementById('root'));
+ReactDOM.render(<Greeting />, document.getElementById('root'));
